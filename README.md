@@ -1,1 +1,3 @@
 resetの状態を確認したい
+
+mainで変更　developでのgit origin pullによりこの変更が反映されるか確認したい
